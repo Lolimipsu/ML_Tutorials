@@ -1,2 +1,5 @@
-seaborn==0.9.0
-pandas==1.5.3
+# python 3.10.12
+
+seaborn==0.13.2
+pandas==2.2.3
+numpy==1.26.4
